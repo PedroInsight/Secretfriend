@@ -10,7 +10,7 @@ Salvar o nome do ganhador em uma variável para referência futura.
 
 🛠️ Tecnologias Utilizadas
 HTML: Estrutura da página.
-CSS: Estilo visual (opcional, se implementado).
+CSS: Estilo visual.
 JavaScript: Lógica da aplicação.
 
 🚀 Como Utilizar
@@ -23,7 +23,6 @@ Realizar o Sorteio:
 Clique no botão Sortear Amigo para sortear um nome aleatório da lista.
 O nome do amigo sorteado será exibido na tela.
 A lista será limpa após o sorteio.
-Salvar o Ganhador:
 
 O nome do ganhador é salvo automaticamente em uma variável chamada ganhador.
 
