@@ -8,11 +8,6 @@ Realizar o sorteio de um amigo secreto.
 Exibir o nome do amigo sorteado e limpar a lista após o sorteio.
 Salvar o nome do ganhador em uma variável para referência futura.
 
-🛠️ Tecnologias Utilizadas
-HTML: Estrutura da página.
-CSS: Estilo visual.
-JavaScript: Lógica da aplicação.
-
 🚀 Como Utilizar
 Adicionar Amigos:
 
